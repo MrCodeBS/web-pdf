@@ -1,0 +1,10 @@
+"name": "web-pdf",
+"version": "1.0.0",
+"scripts": {
+  "start": "react-scripts start"
+{
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-pdf": "^7.7.1"
+  }
+}
